@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "ADHD-NFB-iScience2024: Supplementary Section 4 analysis code"
+type: software
+authors:
+  - family-names: Rahimpour Jounghani
+    given-names: Ali
+license: MIT
+keywords:
+  - fNIRS
+  - neurofeedback
+  - ADHD
+  - working memory
+  - MATLAB
+preferred-citation:
+  type: article
+  title: "Neuromonitoring-guided working memory intervention in children with ADHD"
+  journal: iScience
+  year: 2024
+  volume: 27
+  issue: 11
+  start: 111087
+  doi: 10.1016/j.isci.2024.111087
+  authors:
+    - family-names: Rahimpour Jounghani
+      given-names: Ali
+    - family-names: Gozdas
+      given-names: Elveda
+    - family-names: Dacorro
+      given-names: Lauren
+    - family-names: Avelar-Pereira
+      given-names: Bárbara
+    - family-names: Reitmaier
+      given-names: Samantha
+    - family-names: Fingerhut
+      given-names: Hannah
+    - family-names: Hong
+      given-names: David S.
+    - family-names: Elliott
+      given-names: Glen
+    - family-names: Hardan
+      given-names: Antonio Y.
+    - family-names: Hinshaw
+      given-names: Stephen P.
+    - family-names: Hosseini
+      given-names: S. M. H.

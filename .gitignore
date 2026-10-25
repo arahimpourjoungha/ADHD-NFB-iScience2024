@@ -1,0 +1,20 @@
+# Data: never commit participant data
+*.mat
+*.xlsx
+*.xls
+*.csv
+# ...except small synthetic fixtures under tests/fixtures/ (none at present)
+!tests/fixtures/*.mat
+!tests/fixtures/*.csv
+!tests/fixtures/*.xlsx
+
+# Figures and run outputs
+output/
+/figs/
+*.fig
+*.png
+
+# OS / editor
+.DS_Store
+*.asv
+*.m~
